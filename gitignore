@@ -1,0 +1,17 @@
+# ملفات السجل
+*.log
+*.out
+nohup.out
+client_bot.log
+
+# ملفات الجلسة المؤقتة والبيانات
+price_analysis_ses*
+*.pkl
+
+# بيئة Python الافتراضية
+venv/
+__pycache__/
+*.pyc
+
+# قاعدة البيانات
+*.db
